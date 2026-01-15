@@ -1,0 +1,22 @@
+=== Estado latente + dinámica lineal ===
+N hex = 429
+T bins = 19976
+K_USE = 6
+DELTA = 6 bins (10 min)
+RIDGE = 0.01
+Transiciones usadas = 8595
+R2 latent (train) = 0.000824
+R2 latent (test)  = -0.000859
+R2 observables X (all pairs) = -0.000053
+
+Varianza acumulada (primeros componentes):
+  k=1: cum_var=0.015391
+  k=2: cum_var=0.024691
+  k=3: cum_var=0.033481
+  k=4: cum_var=0.042120
+  k=5: cum_var=0.050250
+  k=6: cum_var=0.058237
+  k=7: cum_var=0.066138
+  k=8: cum_var=0.073956
+  k=9: cum_var=0.081722
+  k=10: cum_var=0.089430

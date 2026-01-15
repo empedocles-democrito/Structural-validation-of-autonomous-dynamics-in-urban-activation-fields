@@ -1,0 +1,8 @@
+=== Diagnóstico operador lineal (DMD/Koopman) ===
+hex N = 429
+rank r = 0
+transiciones = 0
+near-unit eigenvalues (0.95<|λ|<1.05): 0
+oscillatory near-unit (fase!=0): 0
+unitarity error ||A* A - I||/||I||: nan
+reversibility error ||A A^+ - I||/||I||: nan

@@ -1,0 +1,8 @@
+=== Operador lineal lagged ===
+DELTA = 12 bins (10 min c/u)
+transiciones = 7820
+rank r = 20
+near-unit eigenvalues (0.95<|λ|<1.05): 0
+oscillatory near-unit: 0
+unitarity error ||A* A - I||/||I||: 0.997748
+reversibility error ||A A^+ - I||/||I||: 0.000000

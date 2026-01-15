@@ -1,0 +1,28 @@
+=== Modelo entrenado (k=12) ===
+N train: 103182
+
+--- Ajuste decaimiento SELF ---
+name: self_abs
+status: ok
+best: exp
+exp_A: 26.704112510581353
+exp_tau: 0.17097409479641973
+exp_c0: 0.06952423473977631
+exp_sse: 0.022336480848862205
+pow_B: 9380.257889415816
+pow_gamma: 16.894741351679336
+pow_c0: 0.0695370501647552
+pow_sse: 0.022336577214454978
+
+--- Ajuste decaimiento NEIGH ---
+name: neigh_abs
+status: ok
+best: exp
+exp_A: 5729076.604293021
+exp_tau: 0.0694327837721676
+exp_c0: 0.1039892986470357
+exp_sse: 0.044843319760819615
+pow_B: 69045570817.54889
+pow_gamma: 34.33525614386279
+pow_c0: 0.10398920158083888
+pow_sse: 0.044843489387315326
